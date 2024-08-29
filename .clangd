@@ -1,0 +1,2 @@
+CompileFlags:
+  Add: [-I/path/to/your/project/include, -I/path/to/your/project/build/_deps/glad-src/include, -I/path/to/your/project/build/_deps/glfw-src/include]
